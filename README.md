@@ -2,7 +2,6 @@
 
 One place to track your MAANG SDE prep: **DSA**, **System Design**, and **Behavioral (STAR)**.
 
-We love Python.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
