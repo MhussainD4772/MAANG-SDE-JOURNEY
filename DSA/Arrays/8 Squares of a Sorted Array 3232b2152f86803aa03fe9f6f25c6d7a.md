@@ -31,3 +31,5 @@ And let’s say right is greater than left so add right character to the end of 
 This will get us the answer in one go and in most optimized way.
 
 Trick to reverse an array use [::-1]
+
+So this is probably the best approach for us to solve this problem in the most optimized manner.

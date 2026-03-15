@@ -20,6 +20,7 @@ One place to track your MAANG SDE prep: **DSA**, **System Design**, and **Behavi
   - [ ] 6 Running Sum of 1d Array
   - [ ] 7 Concatenation of Array
   - [ ] 8 Squares of a Sorted Array
+  - [ ] 9 Maximum Subarray
 - [ ] Binary Search
 - [ ] Bit Manipulation
 - [ ] Recurssion
@@ -68,7 +69,7 @@ One place to track your MAANG SDE prep: **DSA**, **System Design**, and **Behavi
 ```
 .
 ├── DSA/
-│   ├── Arrays/          (8 problems)
+│   ├── Arrays/          (9 problems)
 │   ├── Binary Search, Bit Manipulation, Recurssion, Strings, Greedy,
 │   ├── Sliding window Two Pointer, Stack Queues, Dynamic Programming,
 │   ├── Graphs (BFS DFS), Linked List, Tree (Binary Tree + BST),
