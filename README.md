@@ -22,6 +22,7 @@ One place to track your MAANG SDE prep: **DSA**, **System Design**, and **Behavi
   - [ ] 8 Squares of a Sorted Array
   - [ ] 9 Maximum Subarray
   - [ ] 10 Majority Element
+  - [ ] 11 Maximum Product Subarray
 - [ ] Binary Search
 - [ ] Bit Manipulation
 - [ ] Recurssion
@@ -70,7 +71,7 @@ One place to track your MAANG SDE prep: **DSA**, **System Design**, and **Behavi
 ```
 .
 ├── DSA/
-│   ├── Arrays/          (10 problems)
+│   ├── Arrays/          (11 problems)
 │   ├── Binary Search, Bit Manipulation, Recurssion, Strings, Greedy,
 │   ├── Sliding window Two Pointer, Stack Queues, Dynamic Programming,
 │   ├── Graphs (BFS DFS), Linked List, Tree (Binary Tree + BST),
