@@ -24,6 +24,7 @@ One place to track your MAANG SDE prep: **DSA**, **System Design**, and **Behavi
   - [ ] 10 Majority Element
   - [ ] 11 Maximum Product Subarray
   - [ ] 12 Longest Increasing Subsequence
+  - [ ] 13 Find Minimum in Rotated Sorted Array
 - [ ] Binary Search
 - [ ] Bit Manipulation
 - [ ] Recurssion
@@ -72,7 +73,7 @@ One place to track your MAANG SDE prep: **DSA**, **System Design**, and **Behavi
 ```
 .
 ├── DSA/
-│   ├── Arrays/          (12 problems)
+│   ├── Arrays/          (13 problems)
 │   ├── Binary Search, Bit Manipulation, Recurssion, Strings, Greedy,
 │   ├── Sliding window Two Pointer, Stack Queues, Dynamic Programming,
 │   ├── Graphs (BFS DFS), Linked List, Tree (Binary Tree + BST),
